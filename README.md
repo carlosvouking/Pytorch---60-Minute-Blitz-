@@ -1,2 +1,2 @@
 # Pytorch - 60-Minute-Blitz-
-Pytorch basics - step by step from Pytorch.org
+Pytorch basics - step by step from Pytorch.org :: intuitive comparison with Numpy.
